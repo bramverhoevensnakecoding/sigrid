@@ -13,7 +13,7 @@ The Java edition (ISBN print: 978-1-4919-5352-5, ISBN eBook: 978-1-4919-5348-8),
 
 The [GitHub](https://github.com/oreillymedia/building_maintainable_software) page contains all snippets.
 
-blablabla
+blablablablablabla
 Training preparation
 -----------
 
